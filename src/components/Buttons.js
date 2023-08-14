@@ -5,8 +5,7 @@ import filterByType from '../App';
 import {useState} from 'react';
 
 
-
-    const Buttons = ({filterByType, setSat, displaySats}) => {
+const Buttons = ({filterByType, setSat, displaySats}) => {
  
 
   return(
