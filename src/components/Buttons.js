@@ -7,7 +7,7 @@ import {useState} from 'react';
 
 const Buttons = ({filterByType, setSat, displaySats}) => {
  
-
+      
   return(
 
     <div className="flex-container">
