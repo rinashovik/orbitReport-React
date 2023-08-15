@@ -1,6 +1,6 @@
 
 
-import styling from './styling.css';
+import './styling.css';
 
 
 export default function Banner(){

@@ -1,7 +1,7 @@
 
 
-import styling from './styling.css';
-import satData from './satData';
+import './styling.css';
+//import satData from './satData';
 
 const Table = ({ sat }) => { // initial state of the data 
 

@@ -1,13 +1,13 @@
-import styling from './styling.css';
+import './styling.css';
 import satData from './satData';
-import displaySats from '../App';
-import filterByType from '../App';
-import {useState} from 'react';
+// import displaySats from '../App';
+// import filterByType from '../App';
+// import {useState} from 'react';
 
 
 const Buttons = ({filterByType, setSat, displaySats}) => {
  
-      
+
   return(
 
     <div className="flex-container">
